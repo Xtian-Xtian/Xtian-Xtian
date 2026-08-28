@@ -93,16 +93,11 @@ I'm a full-stack software developer passionate about building clean, efficient, 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/Xtian-Xtian">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Xtian-Xtian&show_icons=true&theme=radical&count_private=true" alt="Christian's GitHub Stats" />
-  </a>
-  <a href="https://github.com/Xtian-Xtian">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xtian-Xtian&layout=compact&theme=radical" alt="Christian's Top Languages" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xtian-Xtian&theme=dracula" alt="Christian's GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xtian-Xtian&theme=radical" alt="Christian's Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xtian-Xtian&theme=dracula" alt="Christian's Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Xtian-Xtian&theme=dracula" alt="Christian's Productive Time" />
 </p>
 
 ---
