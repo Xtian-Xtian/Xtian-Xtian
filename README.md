@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=435&lines=Software+Developer;Full-Stack+Developer;Java+%26+PHP+Developer;Always+Learning..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=435&lines=Full-Stack+Developer;Laravel+Developer;Always+Learning..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 ### 💫 About Me
 
-I'm a full-stack software developer passionate about building clean, efficient, and user-friendly applications. I specialize in backend development (Java & PHP/Laravel), modern frontend frameworks (React & Livewire), 3D web experiences (Three.js), and mobile application development (Ionic/Capacitor).
+I'm a full-stack software developer passionate about building clean, efficient, and user-friendly applications. I specialize in backend development with PHP/Laravel, modern frontend frameworks (React & Livewire), 3D web experiences (Three.js), and mobile application development (Ionic/Capacitor).
 
 * 🚀 Experience integrating modern web apps with legacy systems (IBM iSeries DB2, ODBC).
 * 💻 Love translating complex problems into simple, functional, and highly interactive code.
@@ -35,6 +35,8 @@ I'm a full-stack software developer passionate about building clean, efficient, 
   <img src="https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
   <!-- HTML5 -->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <!-- CSS3 -->
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <!-- Tailwind CSS -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <!-- Firebase -->
